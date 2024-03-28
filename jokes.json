@@ -1,0 +1,19 @@
+{
+    "jokes": [
+    {
+        "id": 1,
+        "question": "Who's there?",
+        "answer": "Jarrett"
+    },
+    {
+        "id": 2,
+        "question": "Why cant't a penguin flap their wings?",
+        "answer": "They don't have feathers"
+    },
+    {
+        "id": 3,
+        "question": "Why are mushrooms great at parties",
+        "answer": "Because they are fungi"
+    }
+    ]   
+}
